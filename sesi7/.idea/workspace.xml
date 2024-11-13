@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="913ff4a7-d484-49f2-8eaa-c64d9e8a0a75" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/BankBalanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/BankBalanceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/FactorialCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/FactorialCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/SavingsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/SavingsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/cimbniaga/TrianglePattern.java" afterDir="false" />
+    <list default="true" id="c3dc0c4e-b06e-40b5-be0a-aba48b0ce0be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../sesi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/BankBalanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/BankBalanceCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FactorialCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FactorialCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/SavingsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/SavingsCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/TrianglePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2onWRBRXRaZrzCwOKl5BWiqZmlt" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2oniDMwHKmeT4VTmZqsbQqdqcdJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +34,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/at14765X/tgp-java/sesi4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,13 +44,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="913ff4a7-d484-49f2-8eaa-c64d9e8a0a75" name="Changes" comment="" />
-      <created>1731505811133</created>
+      <changelist id="c3dc0c4e-b06e-40b5-be0a-aba48b0ce0be" name="Changes" comment="" />
+      <created>1731511621586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731505811133</updated>
-      <workItem from="1731505812202" duration="70000" />
-      <workItem from="1731510391491" duration="1102000" />
+      <updated>1731511621586</updated>
+      <workItem from="1731511622671" duration="1121000" />
     </task>
     <servers />
   </component>

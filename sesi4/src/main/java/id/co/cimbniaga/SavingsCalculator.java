@@ -20,4 +20,20 @@ public class SavingsCalculator {
 
         scanner.close();
     }
+
+    public static int inputChecker(Scanner scanner, int input) {
+        do {
+            while (!scanner.hasNextInt()) {
+                System.out.println("Please enter an integer!");
+                System.out.print("Masukkan jumlah angka Fibonacci yang ingin ditampilkan: ");
+                scanner.next(); // this is important!
+            }
+            input = scanner.nextInt();
+            if (input < 0) {
+                System.out.println("Please enter an Integer > 0");
+                System.out.print("Masukkan jumlah angka Fibonacci yang ingin ditampilkan: ");
+            }
+        } while (input < 0);
+        return input;
+    }
 }
