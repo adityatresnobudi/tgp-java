@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad88f2e7-318e-44ab-acf0-6fe432851242" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="31e29290-8b6e-4cac-8231-91f7fda16db7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../sesi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sesi7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi7/Bank-Account-Trx/src/main/java/id/co/cimbniaga/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi7/Bank-Account-Trx/src/main/java/id/co/cimbniaga/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi7/Bank-Account-Trx/src/main/java/id/co/cimbniaga/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi7/Bank-Account-Trx/src/main/java/id/co/cimbniaga/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi7/Bank-Account-Trx/src/main/java/id/co/cimbniaga/TransactionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi7/Bank-Account-Trx/src/main/java/id/co/cimbniaga/TransactionThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2onWnrJVV61eDjGyAMXArJm0Mnp" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2oqWvopZNk1WZ98brtKDfItpWM9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/at14765X/tgp-java/sesi7",
+    "last_opened_file_path": "C:/Users/at14765X/tgp-java/sesi8/DOMParserExample",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,14 +44,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ad88f2e7-318e-44ab-acf0-6fe432851242" name="Changes" comment="" />
-      <created>1731505991719</created>
+      <changelist id="31e29290-8b6e-4cac-8231-91f7fda16db7" name="Changes" comment="" />
+      <created>1731597821573</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731505991719</updated>
-      <workItem from="1731505992787" duration="23000" />
-      <workItem from="1731556463082" duration="2491000" />
-      <workItem from="1731570358146" duration="23000" />
+      <updated>1731597821573</updated>
+      <workItem from="1731597822714" duration="4131000" />
     </task>
     <servers />
   </component>

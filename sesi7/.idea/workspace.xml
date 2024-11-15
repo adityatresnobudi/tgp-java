@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3dc0c4e-b06e-40b5-be0a-aba48b0ce0be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../sesi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/BankBalanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/BankBalanceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FactorialCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FactorialCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/SavingsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/SavingsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi4/src/main/java/id/co/cimbniaga/TrianglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesi6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesi6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Account-Trx/src/main/java/id/co/cimbniaga/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Account-Trx/src/main/java/id/co/cimbniaga/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Account-Trx/src/main/java/id/co/cimbniaga/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Account-Trx/src/main/java/id/co/cimbniaga/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Account-Trx/src/main/java/id/co/cimbniaga/TransactionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Account-Trx/src/main/java/id/co/cimbniaga/TransactionThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,27 +19,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oniDMwHKmeT4VTmZqsbQqdqcdJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/at14765X/tgp-java/sesi7/Bank-Account-Trx&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +50,9 @@
       <option name="presentableId" value="Default" />
       <updated>1731511621586</updated>
       <workItem from="1731511622671" duration="1121000" />
+      <workItem from="1731513229253" duration="26000" />
+      <workItem from="1731570382287" duration="707000" />
+      <workItem from="1731597784094" duration="40000" />
     </task>
     <servers />
   </component>

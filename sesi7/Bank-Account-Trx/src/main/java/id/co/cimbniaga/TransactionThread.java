@@ -1,17 +1,23 @@
 package id.co.cimbniaga;
 
 public class TransactionThread extends Thread {
-    private BankAccount bankAccount;
-    private double amount;
+    private final BankAccount bankAccount;
+    private final double amount;
+    private final boolean isDeposit;
 
-    public TransactionThread(BankAccount bankAccount, double amount, String name) {
+    public TransactionThread(BankAccount bankAccount, double amount, boolean isDeposit, String name) {
         super(name);
         this.bankAccount = bankAccount;
         this.amount = amount;
+        this.isDeposit = isDeposit;
     }
 
     @Override
     public void run() {
-        bankAccount.withdraw(amount);
+        if (!isDeposit) {
+            bankAccount.withdraw(amount);
+        } else {
+            bankAccount.deposit(amount);
+        }
     }
 }

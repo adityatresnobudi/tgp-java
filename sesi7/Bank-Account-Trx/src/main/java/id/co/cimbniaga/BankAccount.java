@@ -7,14 +7,16 @@ public class BankAccount {
         this.balance = balance;
     }
 
+    public synchronized void deposit(double amount) {
+        balance += amount;
+        System.out.println(TransactionThread.currentThread().getName() + " depositing " + amount);
+        System.out.println("New balance after deposit: " + this.getBalance());
+    }
+
     public synchronized void withdraw(double amount) {
-        if (balance >= amount) {
-            System.out.println(Thread.currentThread().getName() + "is withdrawing " + amount);
-            balance -= amount;
-            System.out.println("New balance after withdrawal by " + Thread.currentThread().getName() + ": " + balance);
-        } else {
-            System.out.println("Insufficient balance for " + Thread.currentThread().getName());
-        }
+        balance -= amount;
+        System.out.println(TransactionThread.currentThread().getName() + " withdrawing " + amount);
+        System.out.println("New balance after withdrawal: " + this.getBalance());
     }
 
     public double getBalance() {
